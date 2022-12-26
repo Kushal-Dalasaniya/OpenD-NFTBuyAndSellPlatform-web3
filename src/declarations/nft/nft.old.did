@@ -1,0 +1,5 @@
+service : {
+  balanceOf: (principal) -> (nat) query;
+  payOut: () -> (text);
+  transferAmount: (principal, nat) -> (text);
+}
