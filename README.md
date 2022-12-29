@@ -1,6 +1,6 @@
 # OpenD
 
-This project is to buy and sell NFT using my own token, KCON. You can earn 10,000 free KCON on [Ksurv](https://emuqj-xyaaa-aaaam-abana-cai.ic0.app/). Using that token, you can buy and sell NFTS. This project is inspired by OpenSea(https://opensea.io/).
+This project is to buy and sell NFT using my own token, KCON. You can earn 10,000 free KCON on [Ksurv](https://emuqj-xyaaa-aaaam-abana-cai.ic0.app/). Using that token, you can buy and sell NFTS. This project is inspired by [OpenSea](https://opensea.io/).
 
 Unfortunately, I cannot host this site on the Internet computer block chain because of a lack of ICP cycles. Because each time we mint NFT, we burn more cycles, and we can get more cycles using ICP tokens, but it will cost dollars, which is very expensive. Even though I received some free cycles from the Dyfinity community for learning purposes, it was insufficient to host this site.
 
